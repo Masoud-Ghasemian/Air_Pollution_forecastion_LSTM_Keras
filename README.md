@@ -5,4 +5,4 @@ In this repository we use a deep LSTM algorithm to forecast air pollution. Four 
 https://biendata.com/competition/kdd_2018/ 
 
 ![GitHub Logo](/Architecture.png)
-Format: ![Alt Text](url)
+
