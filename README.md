@@ -5,7 +5,7 @@ In this repository, we use a deep LSTM algorithm using Keras to forecast air pol
 
 
 Four Long Short-Term Memory (*LSTM*) layers are used and after each *LSTM* layer a *Dropout* layer with value of 0.2 is used to avoid overfitting.
-For each *LSTM* layer, 144 sequence (previous time steps) is considered. This means we predict the air pollution hourly using the data of 6 last days (6 days * 24 hours = 144 hours).
+For each *LSTM* layer, 144 sequence (previous time steps) is considered. This means we predict the air pollution hourly using the data of 6 last days (6 days * 24 hours = 144 hours)..
 
 ![GitHub Logo](/Architecture.png)
 
